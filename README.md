@@ -20,12 +20,6 @@ This repository contains a basic DAO governance system implementation with:
 - 📜 Governance proposals lifecycle management (create, vote, execute)
 - 🧪 Comprehensive test coverage of governance flow
 
-## Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18+)
-- [Foundry](https://getfoundry.sh/)
-- [Git](https://git-scm.com/)
-
 ## Installation
 
 1. Clone the repository:
